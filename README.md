@@ -1,4 +1,4 @@
-# bikesharing
+# Citibike Analysis
 
 ## Project Overview
 This project analyzes bikeshare data from CitiBike in New York City for presentation to investors looking to begin a bikeshare program in Des Moines, Iowa. Using sample citibike data from Newy York, New York, this analysis might help answer a few key questions:
