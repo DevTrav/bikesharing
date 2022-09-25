@@ -18,6 +18,6 @@ Module: Pandas
 ## Analysis
 Tableau Story available [here](https://public.tableau.com/views/Book1_16640797351890/NYCStory?:language=en-US&:display_count=n&:origin=viz_share_link)
 
-![image](Resources/story.gif)
+![](Resources/story.gif)
 
 ## Results
