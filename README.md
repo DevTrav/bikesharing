@@ -21,3 +21,7 @@ Tableau Story available [here](https://public.tableau.com/views/Book1_1664079735
 ![story](images/story.gif)
 
 ## Results
+
+The data shows that a majority of starting points are concentrated in Manhattan. This could be an indicator of a high-foot traffic area with attractions, which could mean a tourist hub.
+
+![](/images/top_starting_points.png)
