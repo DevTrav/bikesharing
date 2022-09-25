@@ -1,3 +1,23 @@
 # bikesharing
 
-<div class='tableauPlaceholder' id='viz1664079945699' style='position: relative'><noscript><a href='#'><img alt='NYC Story ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;53&#47;53JJBZJDJ&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='shared&#47;53JJBZJDJ' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;53&#47;53JJBZJDJ&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1664079945699');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='1016px';vizElement.style.height='991px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+## Project Overview
+This project analyzes bikeshare data from CitiBike in New York City for presentation to investors looking to begin a bikeshare program in Des Moines, Iowa. Using sample citibike data from Newy York, New York, this analysis might help answer a few key questions:
+- Who uses bikeshare programs?
+- What area of a city sees the most bikeshare usage?
+- What time of day are bikes used the most and the least?
+- How much are the bikes used and by whom?
+
+
+Tableau Story
+## Resources
+
+Software: [Jupyter Notebook](https://www.anaconda.com/products/individual), [Tableau](https://public.tableau.com/en-us/s/download/thanks) 
+
+Module: Pandas
+
+## Analysis
+Tableau Story available [here](https://public.tableau.com/views/Book1_16640797351890/NYCStory?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+![image](Resources/story.gif)
+
+## Results
