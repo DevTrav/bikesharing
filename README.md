@@ -22,7 +22,7 @@ Tableau Story available [here](https://public.tableau.com/views/CitibikeStory_16
 
 ## Results
 
-### Bike trip tarting point trends
+### Bike trip starting point trends
 The data shows that a majority of starting points are concentrated in Manhattan. This could be an indicator of a high-foot traffic area with attractions, which could mean a tourist hub.
 
 ![](/images/top_starting_points.png)
