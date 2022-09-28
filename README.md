@@ -28,7 +28,7 @@ The data shows that a majority of starting points are concentrated in Manhattan.
 ![](/images/top_starting_points.png)
 
 ### Trip duration by hour
-This graphing of number of trips by duration show that the vast majority of trips taken on CitiBike bikes are under an hour in length. More specifically, most trips are under a half-hour in length, with a swift dropoff in number of rides over an hour in length.
+This graphing of number of trips by duration, shows that the vast majority of trips taken on CitiBike bikes are under an hour in length. More specifically, most trips are under a half-hour in length, with a swift dropoff in number of rides over an hour in length.
 
 ![](images/trips_by_duration.png)
 
